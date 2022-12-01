@@ -12,10 +12,10 @@ I'm a self-taught passionate FrontEnd developer from Medellín, Colombia.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on web development technologies like React, Javascript etc.
+- 📚 I’m currently learning everything about Next JS 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- ⚡ Fun fact: I love to play soccer and do long rides in my bike 🏍.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
