@@ -36,4 +36,7 @@ I'm a self-taught passionate FrontEnd developer from Medellín, Colombia.
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=davidpalacio99&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpalacio99&langs_count=5&theme=tokyonight)]()
  
