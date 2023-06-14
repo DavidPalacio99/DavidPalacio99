@@ -1,5 +1,5 @@
 <h1> Hi there, I'm David <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
-I'm a self-taught passionate FrontEnd developer from Medellín, Colombia.
+I'm a self-taught passionate developer from Medellín, Colombia.
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
